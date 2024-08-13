@@ -1,5 +1,5 @@
-name = 'Топинамбур'
-print(name[0])
-print(name[-1])
-print(name[5:10])
-print(name[::-1])
+print(example[0])
+print(example[-1])
+print(example[5:10])
+print(example[::-1])
+print(example[1::2])
